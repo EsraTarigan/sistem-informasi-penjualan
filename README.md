@@ -1,3 +1,22 @@
+# Sistem Informasi Penjualan
+
+## + Fitur yang telah tersedia :
+ - Dashboard menggunakan SbAdmin2
+ - Login dan Logout
+ - CRUD data Pelanggan
+ - CRUD data Produk
+ - CRUD Kategori
+
+## - Kekurangan
+ - Fitur Transaksi Penjualan
+ - Laporan Transaksi 📝
+ - Chart 💹
+
+Barangkali ada *Senior* **Tech Enthusiast** dapat membantu saya.
+dipersilahkan **Forks dan PRs** 😁.
+Terimakasih...🙌
+<br>
+
 <p align="center"><a href="https://laravel.com" target="_blank"><img src="https://raw.githubusercontent.com/laravel/art/master/logo-lockup/5%20SVG/2%20CMYK/1%20Full%20Color/laravel-logolockup-cmyk-red.svg" width="400"></a></p>
 
 <p align="center">
